@@ -1,0 +1,30 @@
+body{
+    background-color: #d8e3e7;
+}
+img:hover{
+  background-color: #d8e3e7;
+}
+h1{
+  padding-left: 2%;
+}
+
+
+
+.top_container{
+
+  padding-top: 5%;
+  padding-bottom: 5%;
+  padding-left: 2%;
+
+}
+
+.middle_container{
+padding-bottom: 5%;
+  padding-left: 2%;
+}
+
+.bottom_conatiner{
+  padding-bottom: 5%;
+    padding-left: 2%;
+
+}
